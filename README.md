@@ -47,7 +47,7 @@ Melakukan penilaian kualitas data berdasarkan beberapa aspek:
 | Completeness | Missing value pada EMAIL INFO PROGRAM, Kode Referensi, dan Tempat Magang. |
 | Uniqueness   | Tidak ditemukan duplikasi baris secara keseluruhan.                       |
 | Consistency  | Ditemukan spasi berlebih dan variasi penulisan pada beberapa kolom.       |
-| Accuracy     | Belum dapat diverifikasi sepenuhnya karena keterbatasan data referensi.   |
+| Accuracy     | Form survei digunakan sebagai referensi untuk memeriksa kesesuaian data dengan jawaban responden. |
 
 Timestamp yang memiliki nilai sama tidak menunjukkan bahwa respondennya sama, sehingga tidak digunakan sebagai dasar penghapusan data.
 
