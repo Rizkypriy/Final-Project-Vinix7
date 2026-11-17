@@ -167,7 +167,7 @@ VINIX7-Data-Engineering/
 ├── README.md
 │
 ├── 01_Data_Source/
-│   └── konsultasi_karir(1).csv
+│   └── konsultasi_karir.csv
 │
 ├── 02_Data_Processing/
 │   └── notebook_data_cleaning.ipynb
