@@ -36,7 +36,7 @@ Melakukan pemeriksaan awal terhadap struktur dan karakteristik dataset, meliputi
 - Duplikasi data.
 - Variasi nilai kategorikal.
 
-Hasil pemeriksaan menunjukkan bahwa `Total Score` memiliki rata-rata 68,03, nilai minimum 24, dan maksimum 98.
+Hasil pemeriksaan menunjukkan bahwa `Total Score` memiliki rata-rata 68,03, nilai minimum 24, dan maksimum 98 (sebelum baris missing value pada pergururan tinggi dan program studi dihapus).
 
 ### 3.2 Data Quality Assessment
 
